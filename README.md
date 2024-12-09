@@ -12,7 +12,8 @@ Linguagens que Estudei/Estudo
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img aling="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
+<img align="middle" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30" style="vertical-align: middle;" />
+
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAAAAMOOOONNNN&layout=compact)
