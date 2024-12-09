@@ -5,11 +5,6 @@
 
 ![RAAAAMOOOONNNN GitHub stats](https://github-readme-stats.vercel.app/api?username=RAAAAMOOOONNNN&show_icons=true&theme=onedark)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAAAAMOOOONNNN&layout=compact)
-
-
 Linguagens que Estudei/Estudo
 <div style="display: inline_block"><br/>
   <img aling="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -17,5 +12,6 @@ Linguagens que Estudei/Estudo
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img aling="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img aling="center" alt="R" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="center"  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30" />
+ <img align="center"  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAAAAMOOOONNNN&layout=compact)
